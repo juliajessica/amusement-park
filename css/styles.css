@@ -1,0 +1,28 @@
+body {
+  background: url("https://i.pinimg.com/originals/da/79/77/da797746ee26476ca94f3e891f28750e.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.of-height {
+  display: none;
+  background-color: #d2d5db;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.not-of-height {
+  display: none;
+  background-color: #d2d5db;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+h1 {
+  font-size: 100px;
+  text-align: center;
+  color: #c7c9cc;
+  font-family: 'Faster One', cursive;
+}
